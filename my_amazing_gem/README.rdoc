@@ -1,6 +1,5 @@
 = my_amazing_gem
 
-Description goes here.
 
 == Contributing to my_amazing_gem
  

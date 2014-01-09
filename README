@@ -1,1 +1,2 @@
-Hello this is my amazing user follow service
+
+A Gem we built in class to experiment with service orientated architecture. Sets up a follow relationship between users on a rails application. Built with Jeweler.
